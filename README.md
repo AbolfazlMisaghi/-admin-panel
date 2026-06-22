@@ -34,7 +34,7 @@ In the future, you can replace the mock with a real backend by just changing the
 | Forms & Validation  | React Hook Form + Zod            |
 | Mock API            | MSW (Mock Service Worker)        |
 | Notifications       | Sonner                           |
-| Styling (future)    | Tailwind CSS (planned)           |
+| Styling             | Tailwind CSS                     |
 
 ## 📁 Project Structure (Feature-based)
 src/
